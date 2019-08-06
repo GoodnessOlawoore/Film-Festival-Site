@@ -7,3 +7,5 @@ CSS,
 BOOTSTRAP,
 JAVASCRIPT,
 JQUERY.
+
+Above are screenshots of how the website looks.
