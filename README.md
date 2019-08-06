@@ -1,2 +1,9 @@
 # Film-Festival-Site
-This is a movie festival site
+
+One of my projects at Openclassrooms.
+Languages used : 
+HTML,
+CSS,
+BOOTSTRAP,
+JAVASCRIPT,
+JQUERY.
